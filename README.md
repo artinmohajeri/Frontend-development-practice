@@ -1,6 +1,8 @@
 # Frontend Development Practice
-## This is a practice of rebuilding a webpage in TIT(Tehran Institute of Technology).This is a team work
+## This is a practice of rebuilding a webpage in TIT(Tehran Institute of Technology).
+#### This project is a team work by www.github.com/artinmohajeri and www.github.com/Matintajik
 This project is not responsive
+
 
 ***The template link is written down below***
 
