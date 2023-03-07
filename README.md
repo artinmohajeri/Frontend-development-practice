@@ -1,4 +1,4 @@
-# Frontend Development Practice `red` 
+# Frontend Development Practice `rgb(255, 0, 0)` 
 ## This is a practice of rebuilding a webpage in TIT(Tehran Institute of Technology).
 #### This project is a team work by www.github.com/artinmohajeri and www.github.com/Matintajik
 This project is not responsive
